@@ -8,6 +8,8 @@
 
 Repositório com simples exemplos de algoritmos na linguagem de programação Pascal.
 
+***
+
 ### Desenvolvimento
 
 Este repositório foi desenvolvido para fins de estudo com alguns exemplos de algoritmos simples em Pascal.
